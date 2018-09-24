@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(73deg,#e646b6,#6157ff);
+}
+.jumbotron {
+    background: rgba(38, 116, 146, 0.678);
+}
+
+h1, .lead {
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+
+}
+form,
+label,
+input {
+    margin: 5px;
+}
+#add-gif {
+    background: rgb(31, 146, 88);
+    color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+label {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+#gif-add {
+    text-align: center;
+
+}
+
+.gifBtn {
+    padding: 5px;
+    margin: 5px;
+    color:  rgb(235, 223, 223);
+    font-weight: bold;
+    background: rgb(28, 28, 238);
+    cursor: pointer;
+
+
+
+}
+
+.gifHolder {
+    float: left;
+}
+p {
+    font-weight: bold;
+    color: beige;
+}
+
+.card {
+    background: rgba(128, 128, 128, 0.747);
+    
+}
